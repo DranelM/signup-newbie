@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/signup-newbie/static/css/main.6a89fe6a.chunk.css",
+    "main.js": "/signup-newbie/static/js/main.927bbffb.chunk.js",
+    "main.js.map": "/signup-newbie/static/js/main.927bbffb.chunk.js.map",
+    "runtime-main.js": "/signup-newbie/static/js/runtime-main.c2656c0d.js",
+    "runtime-main.js.map": "/signup-newbie/static/js/runtime-main.c2656c0d.js.map",
+    "static/js/2.275d4e1f.chunk.js": "/signup-newbie/static/js/2.275d4e1f.chunk.js",
+    "static/js/2.275d4e1f.chunk.js.map": "/signup-newbie/static/js/2.275d4e1f.chunk.js.map",
+    "index.html": "/signup-newbie/index.html",
+    "static/css/main.6a89fe6a.chunk.css.map": "/signup-newbie/static/css/main.6a89fe6a.chunk.css.map",
+    "static/js/2.275d4e1f.chunk.js.LICENSE.txt": "/signup-newbie/static/js/2.275d4e1f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/signup-newbie/static/media/bg-intro-desktop.059183ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2656c0d.js",
+    "static/js/2.275d4e1f.chunk.js",
+    "static/css/main.6a89fe6a.chunk.css",
+    "static/js/main.927bbffb.chunk.js"
+  ]
+}
