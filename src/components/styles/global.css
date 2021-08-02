@@ -1,0 +1,13 @@
+.rightSide {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-evenly;
+  width: 35%;
+  height: 700px;
+}
+
+@media screen and (max-width: 700px) {
+  .rightSide {
+    width: 90%;
+  }
+}
